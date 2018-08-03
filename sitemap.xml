@@ -51,6 +51,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite.com/index.html</loc>
+    
+    <lastmod>2018-08-03T02:40:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2018-08-03T02:22:39.781Z</lastmod>
